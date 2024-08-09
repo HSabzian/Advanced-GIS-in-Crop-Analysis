@@ -35,7 +35,6 @@ Problems for users:
 3-	No Special functions for scientific visualization (line plots, maps…) and statistical analysis
 
 
-
 Purpose of this Project:
 
 The purpose of this project is to develop a highly easy-to-use software technology, USDA Crops Data Analyzer (USDACDA) for deep exploration of all USDA survey data of field crops. 
@@ -49,4 +48,18 @@ Fast integration with map data and high scalability
 
 
 
-![image](https://github.com/user-attachments/assets/f991b4a8-93a5-4380-83e9-1818a1d8d668)
+
+Project Flowchart ![image](https://github.com/user-attachments/assets/3e80d3d1-36e8-4ef9-a9a3-4d8c6bc7f625)
+
+
+
+
+
+
+
+
+
+
+
+
+
