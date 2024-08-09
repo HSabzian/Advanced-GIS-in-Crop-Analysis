@@ -26,8 +26,6 @@ Both data sources cover several items and sub-items such as
 -	Year: 2022, …
  
 
-
-
 Problems for users:
 
 1-	No fast-query database and researchers must save 50K records at each query. 
@@ -47,24 +45,25 @@ Fast integration with map data and high scalability
 4-	Easy visualization of these data at different levels (country, state and county)
 
 
+# Project Flowchart 
+
 <img width="529" alt="Screen Shot 2024-08-09 at 1 36 50 AM" src="https://github.com/user-attachments/assets/8f1d883d-7381-4403-a377-9e696d64d643">
 
-Project Flowchart 
 
+# Spatio-temporal Data base structure
 
 <img width="826" alt="Screen Shot 2024-08-09 at 1 37 13 AM" src="https://github.com/user-attachments/assets/3a2c2ad9-3bbf-4b45-a31f-35093293036b">
 
-Spatio-temporal Data base structure
+
+# Examples of output analysis by functions
 
 
+## Example 1: crops based on planted acres query
+
+<img width="952" alt="Screen Shot 2024-08-09 at 1 47 22 AM" src="https://github.com/user-attachments/assets/c980eb65-3e01-4cc6-a176-12a84c3978cc">
 
 
-
-
-
-
-
-
+<img width="1052" alt="Screen Shot 2024-08-09 at 1 48 48 AM" src="https://github.com/user-attachments/assets/c055c08b-942d-4ae2-b248-dc94bf1fb0c8">
 
 
 
