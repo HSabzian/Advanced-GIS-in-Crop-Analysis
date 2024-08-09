@@ -33,7 +33,9 @@ Both data sources cover several items and sub-items such as
 Problems for users:
 
 1-	No fast-query database and researchers must save 50K records at each query. 
+
 2-	No SRS for these data and researchers cannot analyze them in a map structure. 
+
 3-	No Special functions for scientific visualization (line plots, maps…) and statistical analysis
 
 
@@ -43,10 +45,14 @@ The purpose of this project is to develop a highly easy-to-use software technolo
 This technology is developed to enable the researchers to get the following goals:
 
 1-	Fast-query database of all field crops from 2000 to 2022 (1.2 M records).
-Fast integration with map data and high scalability
-2-	Easy access to this database by a simple query (two-queries)
-3-	Easy analysis of these data at different levels (country, state and county)
-4-	Easy visualization of these data at different levels (country, state and county)
+
+2- Fast integration with map data and high scalability
+
+3-	Easy access to this database by a simple query (two-queries)
+
+4-	Easy analysis of these data at different levels (country, state and county)
+
+5-	Easy visualization of these data at different levels (country, state and county)
 
 
 # High-Level View (Flowchart & Database Architecture)
