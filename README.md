@@ -47,9 +47,19 @@ Fast integration with map data and high scalability
 4-	Easy visualization of these data at different levels (country, state and county)
 
 
+<img width="529" alt="Screen Shot 2024-08-09 at 1 36 50 AM" src="https://github.com/user-attachments/assets/8f1d883d-7381-4403-a377-9e696d64d643">
+
+Project Flowchart 
 
 
-Project Flowchart ![image](https://github.com/user-attachments/assets/3e80d3d1-36e8-4ef9-a9a3-4d8c6bc7f625)
+<img width="826" alt="Screen Shot 2024-08-09 at 1 37 13 AM" src="https://github.com/user-attachments/assets/3a2c2ad9-3bbf-4b45-a31f-35093293036b">
+
+Spatio-temporal Data base structure
+
+
+
+
+
 
 
 
