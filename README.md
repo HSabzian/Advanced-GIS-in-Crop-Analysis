@@ -66,9 +66,14 @@ Fast integration with map data and high scalability
 <img width="1052" alt="Screen Shot 2024-08-09 at 1 48 48 AM" src="https://github.com/user-attachments/assets/c055c08b-942d-4ae2-b248-dc94bf1fb0c8">
 
 
+## Diversity Map of Example (Shanon diversity)
+
+<img width="873" alt="Screen Shot 2024-08-09 at 1 41 08 AM" src="https://github.com/user-attachments/assets/0f73665b-1b84-42d6-a088-5f05501dad24">
 
 
+<img width="1600" alt="Screen Shot 2024-08-09 at 1 41 38 AM" src="https://github.com/user-attachments/assets/7caf2669-01ea-4107-a3e8-d5ff5598bc7d">
 
 
+For complete details see this : 
 
 
